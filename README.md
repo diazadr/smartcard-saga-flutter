@@ -24,7 +24,7 @@ This project was developed as part of the final assignment for the **Internship 
 
 These screens showcase login access, real-time result display, and QR interactions integrated with smartcard data.
 
-<img src="https://github.com/user-attachments/assets/d800f29d-ca83-44c3-9427-8bfbc8546c39" alt="Screenshot" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/9481adbf-ba41-44dc-8576-60bc0a642fca" alt="Screenshot" style="height: 300px; width: auto;">
 
 ## **Setup**
 
